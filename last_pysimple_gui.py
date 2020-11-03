@@ -96,7 +96,7 @@ while True:
     if event=='open_work':
         with open('output_pysimplegui.txt','r') as f:
             lines=f.readlines()
-            print(lines)
+            #print(lines)
             for l in lines:
                 as_list = l.split(",")
                 todolist.append(as_list[0])
