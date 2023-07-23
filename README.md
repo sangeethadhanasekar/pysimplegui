@@ -20,13 +20,13 @@ To edit an existing task, users can select the task from the list box and click 
 
 
 
-##3.Deleting Tasks:
+## 3.Deleting Tasks:
 Users can easily remove a task by selecting it from the list box and clicking the "Delete" button. The task will be promptly deleted from the list.
 
 
-##4.Continuous Execution:
+## 4.Continuous Execution:
 The program runs in a loop, continuously processing user events from the GUI, until the user decides to exit the application.
 
 
-##5.Saving Changes:
+## 5.Saving Changes:
 When the user exits the program, all changes made to the task list will be saved to the "output_pysimplegui.txt" file, allowing users to resume their task management in subsequent sessions.
